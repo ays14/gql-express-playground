@@ -4,7 +4,15 @@
   "description": "node module to integrate graphql playground in express app",
   "main": "index.js",
   "repository": "https://github.com/ays14/gql-express-playground",
-  "author": "Ayush Sharma",
+  "author": {
+    "name": "Ayush Sharma",
+    "email": "ayush.sh143@gmail.com",
+    "url": "https://github.com/ays14"
+  },
   "license": "GPL-3.0",
-  "private": false
+  "private": false,
+  "bugs": {
+    "email": "ayush.sh143@gmail.com",
+    "url": "https://github.com/ays14/gql-express-playground/issues"
+  }
 }
