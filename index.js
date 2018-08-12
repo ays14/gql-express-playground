@@ -1,7 +1,7 @@
 "use strict";
 
 var playgroundHtml = require("graphql-playground-html");
-var playgroundVersion = require('../package.json').playgroundVersion;
+var playgroundVersion = require('./package.json').version;
 
 var __assign = (this && this.__assign) || Object.assign || function(a) {
     for (var b, i = 1, n = arguments.length; i < n; i++) {
