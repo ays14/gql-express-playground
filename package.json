@@ -1,0 +1,10 @@
+{
+  "name": "gql-express-playground",
+  "version": "1.0.0",
+  "description": "node module to integrate graphql playground in express app",
+  "main": "index.js",
+  "repository": "https://github.com/ays14/gql-express-playground",
+  "author": "Ayush Sharma",
+  "license": "GPL-3.0",
+  "private": false
+}
