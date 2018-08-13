@@ -17,7 +17,7 @@ Object.defineProperty(
 	{ value: true }
 );
 
-var playground = {
+var express = {
     expressPlayground : function voyagerExpress(options) {
                             var middlewareOptions = __assign({}, options, { version: playgroundVersion });
                             return function (req, res, next) {
@@ -30,4 +30,4 @@ var playground = {
                         }
 }
 
-module.exports = playground;
+exports.defaults = express;
