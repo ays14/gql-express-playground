@@ -30,4 +30,4 @@ var express = {
                         }
 }
 
-exports.defaults = express;
+module.exports = express;
